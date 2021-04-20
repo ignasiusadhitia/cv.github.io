@@ -1,0 +1,48 @@
+body {
+    font-family: "Lato";
+    color: #323232
+  }
+
+.header {
+    background-color: #606060;
+    color: #fff;
+    height: 25px;
+  }
+
+.main {
+    background-color: #ebebeb;
+    padding: 80px 80px;
+  }
+
+.left-contents {
+    background-color: #829CD0;
+}
+
+.profile-photo {
+    padding: 50px 30px;
+}
+
+.name {
+    font-size: 20px;
+}
+.name, .contact-information, .interests {
+    padding: 30px 30px;
+}
+
+.right-contents {
+    background-color: #fff;
+}
+
+.about-me, .work-experiences, .education, .languages {
+    padding: 30px 30px;
+}
+
+.date {
+    float: right;
+}
+.footer {
+    background-color: #606060;
+    color: #fff;
+    height: 25px;
+    text-align: center;
+  }
